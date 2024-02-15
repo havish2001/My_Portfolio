@@ -13,7 +13,7 @@ function About() {
   </div>
   <div>
     <p className="mt-2 text">
-    I pursued my Bachelor's degree in Electronic and Communication Engineering (ECE) from Vasireddy Venkatadri Institute of Technology, Guntur, from August 2019 to June 2023, achieving a commendable CGPA of 8.78. Prior to that, I completed my Intermediate education at Narayana Junior College, Tenali, from May 2017 to May 2019.
+    I pursued my Bachelor&apos;s degree in Electronic and Communication Engineering (ECE) from Vasireddy Venkatadri Institute of Technology, Guntur, from August 2019 to June 2023, achieving a commendable CGPA of 8.78. Prior to that, I completed my Intermediate education at Narayana Junior College, Tenali, from May 2017 to May 2019.
     </p>
   </div>
   <div className="flex justify-center space-x-3 mt-4">
