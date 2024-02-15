@@ -103,7 +103,7 @@ function Contactme() {
             Thanks for contacting!
           </h2>
           <p className="mb-8 lg:mb-16 font-light text-gray-500 dark:text-gray-400 sm:text-xl">
-            I'll get back to you as soon as possible.
+            I&apos;ll get back to you as soon as possible.
           </p>
         </div>
       )}
